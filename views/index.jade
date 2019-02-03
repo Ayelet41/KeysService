@@ -1,0 +1,9 @@
+extends layout
+
+block content
+    h1= title
+    #keys
+        - each key in keys
+          div.key
+            div.title= key._id
+            div.name= key.value
