@@ -8,10 +8,10 @@
   "dependencies": {
     "chai-http": "^4.2.1",
     "crypto": "^1.0.1",
-    "express": "3.1.0",
+    "express": "3.11.0",
     "jade": "*",
     "mocha": "^5.2.0",
-    "mongodb": ">= 0.9.6-7",
+    "mongodb": ">= 3.1.13",
     "stylus": "*",
     "winston": "^3.2.1"
   },
